@@ -110,6 +110,24 @@ ___３個にする。___
 
 [Google先生](https://www.google.co.jp/)
 
+### 図
+
+図は
+
+```
+![タイトル](ソース)
+```
+
+htmlも当然使えるので、
+
+```html
+<img src="hoge" width=XXpx height=XXpx alt="piyo">
+```
+
+みたいなのも可能。
+
+![画像](mojave.png)
+
 ### CSS
 
 `<style> </style>`で囲めば使えます。
